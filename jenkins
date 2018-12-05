@@ -15,3 +15,5 @@ cat jenkins
 echo "[INFO] testing code"
 echo "[INFO] testing code again"
 
+echo "[INFO] testing code now"
+

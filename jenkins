@@ -1,0 +1,15 @@
+echo "[INFO} Hostname is "
+hostname
+ 
+echo "[INFO] ***********************"
+ls -ltr
+echo "[INFO] ***********************"
+echo "[]INFO] current user is"
+whoami
+
+touch jenkins 
+echo "[INFO] ***********************"
+ls -ltr
+cat jenkins
+
+echo "[INFO] testing code"

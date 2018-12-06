@@ -1,3 +1,4 @@
+#!/bin/sh
 echo "[INFO} Hostname is "
 hostname
  
